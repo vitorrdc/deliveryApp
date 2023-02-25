@@ -1,5 +1,9 @@
 # Aplicativo de Entregas - Pigz!
 
+<h1 align="center">
+  <img alt="Pigz Login" title="Pigz Login" src="./src/bannerGitHub/printOne.jpeg" />
+</h1>
+
 Projeto desenvolvido para fase de teste à vaga de Desenvolvedor Front end mobile na Orange Labs. 
 
 ### 🛠 Tecnologias

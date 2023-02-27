@@ -5,7 +5,7 @@ const AuthContext = createContext({})
 
 export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState('')
-  const [user, setUser] = useState({ user: 'asdsa' })
+  const [user, setUser] = useState({})
 
   function signOut() {
     setUser({})

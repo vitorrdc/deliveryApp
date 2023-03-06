@@ -4,7 +4,7 @@
   <img alt="Pigz Login" title="Pigz Login" src="./src/bannerGitHub/correctBanner.png" />
 </h1> 
 
-Projeto desenvolvido para fase de teste à vaga de Desenvolvedor Front end mobile na Orange Labs. 
+Projeto de estudo desenvolvido através do template do aplicativo de entregas Pigz.  
 
 ### 🛠 Tecnologias
 
@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img style="border-radius: 50%;" src="https://github.com/vitorrdc.png" width="100px;" alt=""/>
 
-Projeto público até a data de entrega(7 dias), feito com ❤️ por Vitor Ribeiro 👋🏽 Entre em contato!
+Feito com ❤️ por Vitor Ribeiro 👋🏽 Entre em contato!
 
 
 [![Gmail Badge](https://img.shields.io/badge/-vitor.camposrdc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.camposrdc@gmail.com)](mailto:vitor.camposrdc@gmail.com)
